@@ -1,5 +1,6 @@
 {
     "WriteFileName" : "FunAI",
     "CarName": "FunAI Kart111",
-    "ReplayFile": "FunAI.replay"
+    "ReplayFile": "FunAI.replay",
+    "ReplayFileUrl": "https://paiatemp.blob.core.windows.net/unity/0309/FunAI.replay?sv=2021-10-04&st=2023-03-09T07%3A16%3A37Z&se=2023-04-10T07%3A16%3A00Z&sr=b&sp=r&sig=LiSiNKSkXtgf5R2IZzzbpgrBL%2B%2BY7x6GVBqW60BfAkE%3D"
 }
